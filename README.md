@@ -1,0 +1,1 @@
+The assignment is to create a website consisting of mutiple web pages that are connected using the <a> tag. I will be practicing using git and making commits and commit messages.
